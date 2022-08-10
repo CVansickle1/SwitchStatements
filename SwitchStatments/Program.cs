@@ -7,14 +7,14 @@ namespace SwitchStatments
         static void Main(string[] args)
         {
             Console.WriteLine("Hello What is your favorite school subject?");
-            Console.WriteLine("1: Coding \n2: Math \n3: History \n4: Sports/Gym \n5: Foreign Language \nPlease use 1-5");
+            Console.WriteLine("1: Coding \n2: Math \n3: History \n4: Sports/Gym \n5: Foreign Language \n6: Other \nPlease use 1-6");
             int subject;
             bool nullCheck;
             nullCheck = int.TryParse(Console.ReadLine(), out subject);
             
             while (!nullCheck)
             {
-                Console.WriteLine("Please enter 1-5 to choose your favorite subject");
+                Console.WriteLine("Please enter 1-6 to choose your favorite subject");
                 nullCheck = int.TryParse(Console.ReadLine(), out subject);
             }
 
