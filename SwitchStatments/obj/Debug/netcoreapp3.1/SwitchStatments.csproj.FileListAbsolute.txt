@@ -1,0 +1,14 @@
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.exe
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.deps.json
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.runtimeconfig.json
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.runtimeconfig.dev.json
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.dll
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\bin\Debug\netcoreapp3.1\SwitchStatments.pdb
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.csproj.AssemblyReference.cache
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.AssemblyInfoInputs.cache
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.AssemblyInfo.cs
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.csproj.CoreCompileInputs.cache
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.dll
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.pdb
+C:\Users\cojo3\Desktop\repos\SwitchStatments\SwitchStatments\obj\Debug\netcoreapp3.1\SwitchStatments.genruntimeconfig.cache
